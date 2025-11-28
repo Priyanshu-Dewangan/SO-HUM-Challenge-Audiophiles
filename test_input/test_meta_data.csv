@@ -1,0 +1,10 @@
+audio_name , audio_directory      ,Sound, labels
+HS_0021.wav,/test_input/raw_audio/HS/HS_0021.wav,HS,0
+HS_0022.wav,/test_input/raw_audio/HS/HS_0022.wav,HS,0
+HS_test.wav,/test_input/raw_audio/HS/HS_test.wav,HS,0
+LS_0011.wav,/test_input/raw_audio/LS/LS_0011.wav,LS,1
+LS_0012.wav,/test_input/raw_audio/LS/LS_0012.wav,LS,1
+LS_test.wav,/test_input/raw_audio/LS/LS_test.wav,LS,1
+Noise_0001.wav,/test_input/raw_audio/Noise/Noise_0001.wav,Noise,2
+Noise_0002.wav,/test_input/raw_audio/Noise/Noise_0002.wav,Noise,2
+Noise_test.wav,/test_input/raw_audio/Noise/Noise_test.wav,Noise,2
